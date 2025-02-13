@@ -129,12 +129,12 @@ Dashboard
 
 ## Deployment
 
-Backend: https://weather-bot-ld9o.onrender.com
+- Backend: https://weather-bot-ld9o.onrender.com
 
 Please start backend by hitting route first before accesiing other live links
 
-Bot link: t.me/weather_updates_2025_bot
-Frontend: https://weather-bot-rho.vercel.app/
+- Bot link: t.me/weather_updates_2025_bot
+- Frontend: https://weather-bot-rho.vercel.app/
 
 
 ---
