@@ -70,26 +70,21 @@ Dashboard
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/ayushjaiz/job-schedular
+   git clone https://github.com/ayushjaiz/weather-bot
    cd job-schedular
    ```
-2. **Run the Schedular service:**
+2. **Run the backend:**
    ```bash
-   cd schedular-service
+   cd backend
    npm install
-   npm run build
    npm run start
    ```
-3. **Run the Watcher service:**
+3. **Run the frontend:**
    ```bash
-   cd watcher-service
+   cd client
    npm install
-   npm run build
-   npm run start
+   npm run dev
    ```
-
-- Schedular service start running at localhost:3002
-- Watcher service start running at localhost:3001
 
 ---
 
